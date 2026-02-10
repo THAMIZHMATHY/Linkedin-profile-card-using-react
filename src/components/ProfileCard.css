@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+.profile-card {
+  width: 380px;
+  background-color: rgb(78, 76, 76);
+  padding: 20px 25px;
+  border-radius: 22px;
+  text-align: center;
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.55);
+  color: white;
+  font-family: sans-serif;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  margin: 200px auto;
+  box-shadow: 10px 20px 100px rgba(66, 66, 255);
+}
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border: 3px solid rgba(255, 255, 255, 0.18);
+}
+.name {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.title {
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(146, 146, 247);
+  margin-bottom: 10px;
+}
+.bio {
+  font-size: 16px;
+  line-height: 1.6;
+  opacity: 0.85;
+  margin-bottom: 15px;
+}
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.social-links a {
+  color: rgb(130, 130, 217);
+  font-size: 18px;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
