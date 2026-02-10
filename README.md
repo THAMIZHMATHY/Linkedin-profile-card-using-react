@@ -1,16 +1,15 @@
-# React + Vite
+A LinkedIn-inspired profile card developed using React. 
+This project demonstrates component-based architecture, reusable props, and modern CSS styling to create clean and professional user interface designs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The profile card displays user information such as profile image, name, role, bio, and social links, similar to professional networking platforms.
 
-Currently, two official plugins are available:
+Built to strengthen my React fundamentals and front-end development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features
+- Reusable React components
+- Props-based dynamic data rendering
+- Modern card UI design
+- Clean typography and layout
+- Social media links
+- Responsive structure
