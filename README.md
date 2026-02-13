@@ -13,3 +13,7 @@ Built to strengthen my React fundamentals and front-end development skills.
 - Clean typography and layout
 - Social media links
 - Responsive structure
+
+
+🌐 Live Demo
+(https://my-first-react-project-profile-card.netlify.app/)
