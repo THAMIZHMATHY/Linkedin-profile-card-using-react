@@ -16,4 +16,4 @@ Built to strengthen my React fundamentals and front-end development skills.
 
 
 🌐 Live Demo
-(https://my-first-react-project-profile-card.netlify.app/)
+(https://linkedin-profile-card-using-react.vercel.app/)
